@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "kasir_pintars",
+  "info": {
+    "singularName": "kasir-pintar",
+    "pluralName": "kasir-pintars",
+    "displayName": "kasir pintar"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "kasir": {
+      "type": "string"
+    }
+  }
+}
